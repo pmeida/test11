@@ -3,6 +3,6 @@
 specVersion: 0.36.0
 name: test11
 runtime: node
-registry: image-registry.openshift-image-registry.svc:5000/test11
-namespace: test11
+registry: image-registry.openshift-image-registry.svc:5000/r2
+namespace: r2
 created: 2026-10-06T15:18:34.972345+01:00
